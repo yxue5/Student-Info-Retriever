@@ -1,0 +1,9 @@
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\bin\Debug\studentInfo.exe.config
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\bin\Debug\studentInfo.exe
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\bin\Debug\studentInfo.pdb
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\obj\Debug\studentInfo.csprojResolveAssemblyReference.cache
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\obj\Debug\studentInfo.Form1.resources
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\obj\Debug\studentInfo.Properties.Resources.resources
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\obj\Debug\studentInfo.csproj.GenerateResource.Cache
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\obj\Debug\studentInfo.exe
+c:\users\yang\documents\visual studio 2015\Projects\studentInfo\studentInfo\obj\Debug\studentInfo.pdb
